@@ -4,8 +4,6 @@
   </a>
 </p>
 
-# AMX Mod X Online Compiler
-
 [![Website](https://img.shields.io/badge/Website-amx.icegame.ro-blue)](https://amx.icegame.ro)
 [![AMXX](https://img.shields.io/badge/AMX%20Mod%20X-1.7.6%20to%201.10.0-orange)](https://amx.icegame.ro)
 [![Languages](https://img.shields.io/badge/Interface-16%20languages-green)](https://amx.icegame.ro)
