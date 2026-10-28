@@ -66,7 +66,7 @@ Compiling an AMX Mod X plugin normally means downloading the right AMX Mod X pac
 
 <br>
 
-[![Compilation result](https://github.com/barlap/amxmodx-web-compiler/blob/main/amx_compiler_result.PNG?raw=true)](https://github.com/barlap/amxmodx-web-compiler/blob/main/amx_compiler_result.PNG)
+[![Compilation result](https://github.com/barlap/amxmodx-web-compiler/blob/main/amx_compilation_result.PNG?raw=true)](https://github.com/barlap/amxmodx-web-compiler/blob/main/amx_compilation_result.PNG)
 
 </details>
 
